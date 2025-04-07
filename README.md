@@ -13,6 +13,7 @@ A simple Python-based port scanner that checks for open TCP ports on a target IP
 
 ## 🛠️ How to Use
 ```bash
-git clone https://github.com/yourusername/port-scanner.git
-cd port-scanner
-python3 port_scanner.py
+git clone https://github.com/AhmedxAbubakar/Port-Scanner.git
+cd Port-Scanner
+python3 Port-Scanner.py
+
